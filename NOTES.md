@@ -6,3 +6,4 @@ Changelog of work landed against Jira issues.
 - chore/ITSD-19: Laptop upgrade request — current device failing performance benchmarks
 - chore/ITSD-10: Password reset — service account lockout
 - chore/ITSD-15: New hire laptop provisioning — Payments team
+- fix/ITSD-9: VPN connection drops for remote branch staff
